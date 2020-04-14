@@ -1,6 +1,8 @@
 # arduino-traffic-light
 This is the code for a LEGO T-Intersection LED Traffic Light that was published as an instructable at: https://www.instructables.com/id/LEGO-T-Intersection-LED-Traffic-Light/
 
+A video of the project exists at:  http://www.youtube.com/watch?v=q0tiiWwC6Zo
+
 As illustrated in the article, there are two projects in this repo. One for a T-intersection and one for a typical cross-intersection. Compile the version you want.
 
 ---
